@@ -1,5 +1,7 @@
-### Olá, me chamo Rafael Motta! 👋🏽 <br><br/>
-#Coantato
+### Olá, me chamo Rafael Motta! 👋🏽
+
+#Coantato <br><br/>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rafael-motta-de-freitas-9aa686205/)
 
 ## 📌 Technical skills
