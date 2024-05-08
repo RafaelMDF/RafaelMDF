@@ -6,12 +6,32 @@
 ## 📌 Technical skills
 
 ### Programming languages ​​studied:
-<div style="display: inline_block"><br/>
-  <img align="center"" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center"" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center"" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center"" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</div><br><br/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exemplo de Imagens Alinhadas Horizontalmente</title>
+<style>
+    .container {
+        display: inline-block;
+    }
+    .container img {
+        margin: 5px; /* Espaçamento entre as imagens */
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+</body>
+</html>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMDF&show_icons=true&theme=radical)
 
