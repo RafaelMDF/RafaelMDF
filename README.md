@@ -1,6 +1,6 @@
 ### Olá, me chamo Rafael Motta! 👋🏽
 
-# Coantato <br><br/>
+### Coantato <br><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rafael-motta-de-freitas-9aa686205/)
 
