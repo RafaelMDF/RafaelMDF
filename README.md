@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Rafael Motta de Freitas, tenho 24 anos e sou natural da Bahia. Concluí Rede de Computadores, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFACS. Sou apaixonado por tecnologia.
+Sou Rafael Motta de Freitas, tenho 24 anos e sou natural da Bahia. Sou formado em Redes de Computadores e atualmente curso Análise e Desenvolvimento de Sistemas na UNIFACS. Apaixonado por tecnologia, busco constantemente aprimorar meus conhecimentos e transformar ideias em soluções práticas e inovadoras.
 
 ---
 
