@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Sou Rafael Motta de Freitas, tenho 24 anos e sou natural da Bahia. Sou formado em Redes de Computadores e atualmente curso Análise e Desenvolvimento de Sistemas na UNIFACS. Apaixonado por tecnologia, busco constantemente aprimorar meus conhecimentos e transformar ideias em soluções práticas e inovadoras.
+Sou Rafael Motta de Freitas, tenho 25 anos, sou natural da Bahia e atuo como Web3 Developer. Sou formado em Redes de Computadores e atualmente curso Análise e Desenvolvimento de Sistemas na UNIFACS. Tenho grande interesse por tecnologia e inovação, buscando constantemente aprimorar meus conhecimentos e desenvolver soluções práticas, eficientes e alinhadas às novas tendências do mercado.
 
 ---
 
