@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Front-end`**
 
-Sou Rafael Motta de Freitas, tenho 25 anos, sou natural da Bahia e atuo como Web3 Developer. Sou formado em Redes de Computadores e atualmente curso Análise e Desenvolvimento de Sistemas na UNIFACS. Tenho grande interesse por tecnologia e inovação, buscando constantemente aprimorar meus conhecimentos e desenvolver soluções práticas, eficientes e alinhadas às novas tendências do mercado.
+Desenvolvedor Full Stack e entusiasta de Web3 com experiência na construção de interfaces modernas e
+responsivas e no desenvolvimento de soluções back-end. Habilidades em JavaScript, TypeScript, HTML, SCSS,
+PHP, Next.js e React, atuando no desenvolvimento de aplicações web e soluções voltadas para blockchain.
+Experiência na criação e configuração de rotas, consultas em banco de dados e validação de endpoints, sempre
+com foco em boas práticas de desenvolvimento e experiência do usuário.
 
 ---
 
