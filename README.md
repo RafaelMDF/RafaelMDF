@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rafael Motta
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full Stack`**
 
 Desenvolvedor Full Stack e entusiasta de Web3 com experiência na construção de interfaces modernas e
 responsivas e no desenvolvimento de soluções back-end. Habilidades em JavaScript, TypeScript, HTML, SCSS,
